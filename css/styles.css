@@ -1,6 +1,9 @@
 header{
     background-color: #E7E9FC;
 }
+body{
+    font-family: "Roboto", sans-serif;
+}
 .section1{
     background-color: #2E2F42;
 }
