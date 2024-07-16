@@ -10,6 +10,15 @@ body{
 h1, h2 {
     font-weight: 700;
 }
+.button {
+    font-color:#4D5AE5;
+}
+.button:hover{
+    font-color:#404BBF;
+}
+.button:focus {
+    font-color: #4D5AE5;
+}
 h3 {
     font-weight: 500;
 }
