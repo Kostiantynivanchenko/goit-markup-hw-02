@@ -16,6 +16,9 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+.logo > span{
+    color:#2e2f42;
+}
 h1, h2 {
     font-weight: 700;
 }
