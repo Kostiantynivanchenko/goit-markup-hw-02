@@ -53,11 +53,14 @@ address{
     color:#404bbf;
  }   
 .info:focus {
-      color: #404bbf;
+    color: #404bbf;
   }
 
 h1, h2 {
     font-weight: 700;
+}
+h1{
+    color:#ffffff;
 }
 button {
     background-color:#4D5AE5;
