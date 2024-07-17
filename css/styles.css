@@ -3,8 +3,10 @@ header{
 }
 body{
     font-family: "Roboto", sans-serif;
-    color: #434455;
     background-color: #FFFFFF;
+}
+body > p{
+    color: #434455;
 }
 .webstudio{
     font-family: "Raleway", sans-serif;
