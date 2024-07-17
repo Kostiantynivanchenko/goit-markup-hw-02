@@ -32,12 +32,9 @@ body{
         letter-spacing: 0.02em;
         color: #2e2f42;
     }
-.header-list-items:hover
+.header-list-items:hover,
+.header-list-items:focus
 {
-    color: #404bbf;
-
-}
-.header-list-items:focus {
     color: #404bbf;
 
 }
@@ -49,12 +46,10 @@ address{
     letter-spacing: 0.02em;
     color: #434455;
     }
-.info:hover{
+.info:hover,
+.info:focus{
     color:#404bbf;
  }   
-.info:focus {
-    color: #404bbf;
-  }
 
 h1, h2 {
     font-weight: 700;
