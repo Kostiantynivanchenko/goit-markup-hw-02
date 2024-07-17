@@ -57,20 +57,19 @@ address{
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
+    color: #ffffff;
 }
 h2 {
     font-weight: 700;
 }
-h1{
-    color:#ffffff;
-}
-button {
+
+.button {
     background-color:#4D5AE5;
 }
-button:hover{
+.button:hover{
     background-color:#404BBF;
 }
-button:focus {
+.button:focus {
     background-color: #4D5AE5;
 }
 h3 {
