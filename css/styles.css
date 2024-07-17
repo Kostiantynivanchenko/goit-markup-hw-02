@@ -50,7 +50,9 @@ address{
 .info:focus{
     color:#404bbf;
  }   
-
+.first-section{
+    background-color: #2e2f42;
+}
 .title-section1{
     font-weight: 700;
     font-size: 56px;
