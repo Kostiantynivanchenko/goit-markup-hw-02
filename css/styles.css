@@ -4,6 +4,8 @@ header{
 body{
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
+}
+body > p {
     color: #434455;
 }
 
