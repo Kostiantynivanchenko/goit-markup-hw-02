@@ -63,13 +63,13 @@ h2 {
     font-weight: 700;
 }
 
-.button {
+button {
     background-color:#4D5AE5;
 }
-.button:hover{
+button:hover{
     background-color:#404BBF;
 }
-.button:focus {
+button:focus {
     background-color: #4D5AE5;
 }
 h3 {
