@@ -33,8 +33,11 @@ body{
         color: #2e2f42;
     }
 .header-list-items:hover
-.header-list-items:focus
 {
+    color: #404bbf;
+
+}
+.header-list-items:focus {
     color: #404bbf;
 
 }
