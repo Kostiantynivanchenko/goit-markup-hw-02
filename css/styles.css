@@ -49,10 +49,10 @@ address{
     letter-spacing: 0.02em;
     color: #434455;
     }
- info:hover{
+.info:hover{
     color:#404bbf;
  }   
-  info:focus {
+.info:focus {
       color: #404bbf;
   }
 
