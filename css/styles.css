@@ -50,6 +50,7 @@ address{
 .info:focus{
     color:#404bbf;
  }   
+
 .first-section{
     background-color: #2e2f42;
 }
@@ -92,9 +93,7 @@ h2 {
 p {
     font-weight: 400;
 }
-.section1{
-    background-color: #2E2F42;
-}
+
 .section3 {
     background-color: #F4F4FD;
 }
